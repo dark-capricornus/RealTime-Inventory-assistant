@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AndroidTutorials" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize colors or other theme attributes here if needed -->
+    </style>
+
+</resources>
